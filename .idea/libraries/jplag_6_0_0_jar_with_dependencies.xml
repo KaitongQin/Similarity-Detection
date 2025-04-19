@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jplag-6.0.0-jar-with-dependencies">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/jplag-6.0.0-jar-with-dependencies.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/jplag-6.0.0-jar-with-dependencies.jar!/OSGI-OPT/src" />
+    </SOURCES>
+  </library>
+</component>
